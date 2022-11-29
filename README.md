@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://codepen.io/capsxy" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-caioaps-05122A?style=flat&logo=codepen" alt="codepen"/>
+    <img align="center" src="https://img.shields.io/badge/-capsxy-05122A?style=flat&logo=codepen" alt="codepen"/>
   </a>
   <a href="https://linkedin.com/in/caioaps" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-caioaps-05122A?style=flat&logo=linkedin" alt="linkedin"/>
