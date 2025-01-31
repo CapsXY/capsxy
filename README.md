@@ -8,8 +8,6 @@
 
 - 👨🏻‍💻 **HTML, CSS and JavaScript**
 
-- 1️⃣ Tô na fila it was one of the first projects that I immersed myself in programming.
-
 <div align="end" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,5 +30,3 @@
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/gist/CapsXY/29c15a944e6e4b12bee1065a100e80be/raw/faa277e968593113e57fff19447110e4930e7723/Snake_Github.svg)
-
-
